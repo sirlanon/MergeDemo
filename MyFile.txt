@@ -1,6 +1,6 @@
 Hello,
 This is my file.
-Ahihi
-Haha
-Tu Nguyen, Ahihi
+1
+2
+3
 Master.

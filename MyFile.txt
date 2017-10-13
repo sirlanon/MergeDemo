@@ -3,4 +3,7 @@ This is my file.
 a
 b
 c
+1
+2
+3
 Master.
